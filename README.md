@@ -29,7 +29,7 @@ screenshot.png will be genertaed <br>
 python crop.py <br>
 screenshot.png gets sliced in CROP folder into 3 <br>
 Text files for company - 1.txt, Title - 2.txt and Location - 3.txt gets generated using tesseract <br>
-Check Manually in all txt files Comapny,Title and Location starts with number on 5th line if not edit and save screenshot.png
+Check Manually in all txt files Comapny,Title and Location starts with number on 5th line if not edit and save txt files
 
 3] Run ext_txt.py <br>
 python ext_txt.py <postid> <br>
