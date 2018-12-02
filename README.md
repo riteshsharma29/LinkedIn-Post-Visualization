@@ -25,13 +25,16 @@ Example python get_post.py 6468885395999424512 <br>
 
 screenshot.png will be genertaed <br>
 
-2] Run crop.py <br>
+2] <br>
+Run crop.py <br>
 python crop.py <br>
 screenshot.png gets sliced in CROP folder into 3 <br>
 Text files for company - 1.txt, Title - 2.txt and Location - 3.txt gets generated using tesseract <br>
 Check Manually in all txt files Comapny,Title and Location starts with number on 5th line if not edit and save txt files
 
-3] Run ext_txt.py <br>
+3] <br>
+Update ext_txt.py https://www.linkedin.com/in/ritesh-sharma29/detail/recent with your LinkedIn URL till word recent <br>
+Run ext_txt.py <br>
 python ext_txt.py <postid> <br>
 Example python ext_txt.py 6468885395999424512 <br>
 Visualization charts will be generated 
