@@ -13,6 +13,7 @@ Python == 2.7.x <br>
 Python modules (libraries) & Dependencies can be installed using pip <br>
 Install tesseract v-4 in C:\Program Files (x86)\Tesseract-OCR from https://github.com/UB-Mannheim/tesseract/wiki  (set enviroment variable for it if required) <br>
 Install Imagemagick from Sourceforge.net in C:\Program Files (set enviroment variable for it if required) <br>
+chromedriver.exe based on your chrome browser <br> stored in a folder called drivers
 
 Scripts to be updates and excuted : <br>
 
